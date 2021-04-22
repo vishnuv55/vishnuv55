@@ -28,8 +28,8 @@
   <br/>
   Know more about me at <a href="https://vishnuv.me/" target="_blank">My Portfolio.</a>
 </p>
-
-<h1 align="center"> Skills & Tools </h1>
+<br/>
+<h1 align="center">🤹🏻 Skills & Tools </h1>
 <p align="center">
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -64,7 +64,8 @@
   </a>
 
 </p>
-<h1 align="center"> 📊 My Stats </h1>
+<br/>
+<h1 align="center"> 📊 Stats </h1>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -79,5 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuv55&theme=dark&hide_border=true" >
 </a>
 </p>
+<br/>
 <h1 align="center"> 🔥 Contribution Graph </h1>
 <img src="https://activity-graph.herokuapp.com/graph?username=vishnuv55&theme=github">
