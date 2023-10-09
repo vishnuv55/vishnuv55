@@ -1,7 +1,7 @@
 <div align="center">
 <img width="350" alt="developer" src="https://user-images.githubusercontent.com/56922401/115662554-c4dbf400-a35c-11eb-89ad-16810dc68ed1.png">
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I am <a href="https://vishnuv.me/" color="blue">Vishnu Viswambharan</a></h1>
+<h1 align="center"><span>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">,&nbsp; I am <a href="https://vishnuv.me/" color="blue">Vishnu Viswambharan</a></span></h1>
 <div align="center">
   <a href="mailto:vishnuviswambharan55@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
